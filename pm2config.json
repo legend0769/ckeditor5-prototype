@@ -1,6 +1,6 @@
 {
   "name": "ckeditor",
-  "script": "yarn start",
+  "script": "export PORT=4000 yarn start",
   "env": {
     "APP_ENV": "stg"
   },
