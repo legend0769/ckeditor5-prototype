@@ -1,0 +1,10 @@
+{
+  "name": "ckeditor",
+  "script": "yarn start",
+  "env": {
+    "APP_ENV": "stg"
+  },
+  "env_prod": {
+    "NODE_ENV": "prod"
+  }
+}
